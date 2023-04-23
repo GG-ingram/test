@@ -1,14 +1,10 @@
-hello git
-fsfsfsfs
-sfsfsfs
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-xfsfssx
-添加:
+这是第一个git 操作文件
+使用其完成一些简单的功能！！！
+git add
+git rm 文件名
+git rm --cache 文件名 删除暂存区的指定文件
+git commit 文件名称
+
+暂存区的文件也是可以被修改的
+注意！
+只有提交到暂存区的文件才能被提交
